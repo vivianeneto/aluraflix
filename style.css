@@ -1,7 +1,49 @@
 body {
-    color: white;
-    background: black;
+ color;white;
+backgroud:black;
+margim:0px;
+font-family:crkra petch,sans-serif;
+margin-bottom:100px
 }
 header{
-    border: solid 2px white;
+border-bottom:solid 2px rgb(42,122,228);
+padding:20px;
+font-size:32px;
+color:rgb(42,122,2280);
+}
+.chamada[
+background:rgb(184,156,213);
+padding-bottom:80px
+padding-top80px;
+display: flex;
+justify-content:center;
+}
+.chamada-texto[
+margim-right5%;
+}
+h1]
+font:40px;
+}
+p[
+font:size20px;
+}
+.categoria[
+display flex;
+overflow-x auto;
+gap:10px;
+}
+.categoria[ 
+padding-left20px;
+padding-rigt:20PX;
+margim-top50px;
+{
+.categoria-videos img{
+opacity:0.5;
+height: 200px
+}
+.categoria-videos img: houver{
+opacity1.0;
+border3pxsolid gren;
+categoria h2{
+color:rgb(42,122,2280);
 }
